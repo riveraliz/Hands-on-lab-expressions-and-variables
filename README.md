@@ -1,1 +1,1 @@
-# Hands-on-lab-expressions-and-variables
+# Hands-on-lab-strings
